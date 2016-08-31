@@ -1,0 +1,2 @@
+defmodule LoggerStarter do
+end
